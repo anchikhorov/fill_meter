@@ -1,0 +1,6 @@
+{
+  "ghostscript":"C:\\Program Files\\gs\\gs9.53.2\\bin\\gswin64c.exe",
+  "ImageMagik":"C:\\Program Files\\ImageMagick-7.0.10-Q8\\",
+  "ImageMagickExec":"magick.exe",
+  "outputPath":"C:\\test\\out"
+}
